@@ -5,7 +5,8 @@
       "id": "library",
       "title": "Library",
       "environments": ["edit"],
-      "url": "https://www.aem.live/tools/sidekick/library?plugin=blocks&path=/block-library&index=/tools/sidekick/library"
+      "url": "/tools/sidekick/library.html",
+      "includePaths": ["**.docx**"]
     }
   ]
 }
