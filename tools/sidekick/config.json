@@ -1,0 +1,11 @@
+{
+  "project": "Unknown Untitled",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "Library",
+      "environments": ["edit"],
+      "url": "https://main--boilerplatecursor--blofft1.aem.page/tools/sidekick/library?plugin=blocks&path=/block-library"
+    }
+  ]
+}
