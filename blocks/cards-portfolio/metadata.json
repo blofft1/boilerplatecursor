@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-portfolio",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-02-25T02:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://unknown-untitled.com/en",
+    "originPage": "Design studio portfolio homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "portfolio",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "linked images grid",
+    "buttonCount": 0,
+    "imageCount": 14
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "portfolio project galleries",
+      "image-heavy showcase pages",
+      "work/project listing pages"
+    ],
+    "notSuitableFor": [
+      "text-heavy card layouts",
+      "product cards with descriptions",
+      "feature highlights with CTAs"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/content/en"],
+    "reuseCount": 1,
+    "lastUsed": "2026-02-25T02:48:00.000Z"
+  }
+}

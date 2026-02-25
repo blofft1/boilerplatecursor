@@ -1,0 +1,40 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://unknown-untitled.com/en"
+      ],
+      "description": "Design studio portfolio homepage with hero logo, intro text, project gallery grid, and contact footer",
+      "blocks": [
+        {
+          "name": "section-hero",
+          "instances": [
+            "main.home .home-inner > .home-logo"
+          ],
+          "section": "hero"
+        },
+        {
+          "name": "section-intro",
+          "instances": [
+            "main.home .home-inner > .home-intro"
+          ],
+          "section": "intro"
+        },
+        {
+          "name": "cards-portfolio",
+          "instances": [
+            "main.home .home-layout-inner"
+          ]
+        },
+        {
+          "name": "section-footer",
+          "instances": [
+            "main.home .home-inner > .home-footer"
+          ],
+          "section": "contact"
+        }
+      ]
+    }
+  ]
+}
