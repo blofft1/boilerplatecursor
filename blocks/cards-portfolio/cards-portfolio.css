@@ -35,12 +35,6 @@
 
 @media (width >= 600px) {
   .cards-portfolio > ul {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-@media (width >= 900px) {
-  .cards-portfolio > ul {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
